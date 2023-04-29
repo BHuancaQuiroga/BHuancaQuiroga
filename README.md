@@ -60,7 +60,7 @@ Here are some ideas to get you started:
       <img src="https://assets.website-files.com/61b3a482c8531b1b59d1d777/61f33c7e8911db2b4b7c0222_Dash.png"  title="PlotlyDash" alt="PlotlyDash" width="80" height="60"/>
     </td>
     <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
     </td>
