@@ -24,5 +24,42 @@ Here are some ideas to get you started:
   </div>
 </div>
 
+---
+
+<h2>About Me</h2>
+<div align="justify">
+<p>Hello everyone! I'm Benjamin Caleb, an enthusiast <strong>Full Stack Developer</strong> based in Spain. I am working on some side projects, learning new things and improving my skills in order to provide some meaningful help to others. I also spend time being active and having a healthy lifestyle!</p></br>
+</div>
 
 
+<small><i><strong>Quick Tip:</strong></i> Don't forget to <strong>hydrate and stretch</strong> when coding!</small></br></br>
+
+<h2>Technologies I Have Work With</h2>
+
+<div>
+<h3>Front End</h3>
+  
+- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
+- <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
+- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+</div>
+<div>
+<h3>Back End</h3>
+
+- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
+- <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="PHP" alt="PHP" width="40" height="40"/>
+</div>
+<div>
+<h3>Database</h3>
+
+- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+- <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+- <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+</div>
+<h3>Other Tools</h3>
+
+- <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+- <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
+- <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
+</div>
