@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="" align="center">
-  <h1>Greetings!</h1>
+  <h1><code>Hello Wor...GitHub!</code></h1>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhmMjBkOGVmNDYyOWU2MzExY2FmZTliOTMxYmEzMGVkMDBmZGVjZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/17b875GGvV9m9sLmNc/giphy.gif" width="100"/>
   <!-- <img src="https://komarev.com/ghpvc/?username=BHuancaQuiroga&style=flat-square&color=blue" alt=""/> --!>
   <div id="badges">
